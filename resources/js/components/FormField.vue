@@ -5,7 +5,7 @@
                 :id="field.name"
                 type=number
                 step=0.01
-                max="10"
+                :max="field.max"
                 min="0"
                 class="w-full form-control form-input form-input-bordered"
                 :class="errorClasses"
