@@ -1,6 +1,6 @@
 {
-    "name": "bestsite/double",
-    "description": "A Laravel Nova field.",
+    "name": "bestsite.az/double",
+    "description": "A Laravel Nova Double field.",
     "keywords": [
         "laravel",
         "nova"
